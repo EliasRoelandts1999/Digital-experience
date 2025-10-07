@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+}
+body{
+    background-image: url('perkament.jpg');
+    background-position: center;
+    background-size: cover;  
+}
+.container {
+    background: red;
+    width: 80%;
+}
